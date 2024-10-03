@@ -1,0 +1,28 @@
+.profileimg{
+    height: 30%;
+    width: 100%;
+}
+.section1{
+    padding-top: 7em;
+    background: linear-gradient(#ffffff,#858585);
+}
+.section2{
+    background: linear-gradient(#a3a3a3,#858585);
+}
+.section3{
+    background: linear-gradient(#b7b7b7,#858585);
+}
+.section4{
+    background: linear-gradient(rgb(42, 42, 42),rgb(75, 75, 75));
+}
+.experiance1{
+    border-radius: 10%;
+}
+.experiance1:hover{
+    background: #dddddd;
+}
+
+.cards1:hover{
+    background: #d1d1d1;
+    cursor: pointer;
+}
